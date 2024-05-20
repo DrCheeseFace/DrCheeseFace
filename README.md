@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drcheeseface&label=Profile%20views&color=0e75b6&style=flat-square" alt="drcheeseface" /> </p>
 
-- 🌱 I’m currently learning **web dev and image recognition**
+- 🌱 I’m currently learning **web dev and Rust**
 
 - 📫 How to reach me **tharun1@hotmail.co.uk**
 
