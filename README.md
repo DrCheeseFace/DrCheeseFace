@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drcheeseface&label=Profile%20views&color=0e75b6&style=flat-square" alt="drcheeseface" /> </p>
 
-<p align="center">🌱 I’m currently learning <b>Rust, C and embedded programming</b></p>
+<p align="center">🌱 I’m currently learning <b>C and SDL3</b></p>
 
 <p align="center">📫 How to reach me <b>tharun1@hotmail.co.uk</b></p>
 
