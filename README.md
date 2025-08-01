@@ -26,10 +26,11 @@
 <a href="https://wiki.libsdl.org/SDL3/FrontPage" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sdl/sdl-original.svg" alt="svelte" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact" alt="drcheeseface" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=drcheeseface&show_icons=true" height="165"/>
-</p>
+<div align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=drcheeseface&show_icons=true&hide_title=true" alt="drcheeseface"/>
+  <br>
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
+</div>
 
 
 
