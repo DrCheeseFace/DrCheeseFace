@@ -27,10 +27,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact" alt="drcheeseface" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact" alt="drcheeseface" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=drcheeseface&show_icons=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drcheeseface&" alt="drcheeseface" />
-</p>
+
+
 
