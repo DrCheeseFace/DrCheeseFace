@@ -27,9 +27,10 @@
 </p>
 
 <div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=drcheeseface&show_icons=true&hide_title=true" alt="drcheeseface"/>
+  
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=drcheeseface)](https://github.com/drcheeseface/github-readme-stats-fast)
   <br>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
 </div>
 
 
