@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=drcheeseface)](https://github.com/drcheeseface/github-readme-stats-fast) 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=drcheeseface&theme=light&hide_border=true)
 
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
 </div>
