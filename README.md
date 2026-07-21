@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=drcheeseface&theme=light&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=drcheeseface&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=followers%2Cactive_day)
 
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
 </div>
