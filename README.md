@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=drcheeseface&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=followers%2Cactive_day)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=drcheeseface&theme=light&hide_border=true&hide_title=true&border_radius=0&hide=followers%2Cactive_day%2Cgrade%2Cavg%2Cweek&order=stars%2Ccommits%2Chours%2Ccontributions%2Ctrend%2Cstreak%2Cprs%2Cissues%2Crepos)
 
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=drcheeseface&show_icons=true&locale=en&layout=compact&hide_title=true" alt="drcheeseface"/>
 </div>
