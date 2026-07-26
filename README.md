@@ -27,7 +27,7 @@
       <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="postgreSQL" width="40" height="40"/> </a></td>
+      <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/540px-PostgreSQL_logo.3colors.svg.png" alt="postgreSQL" width="40" height="40"/> </a></td>
       <td align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/baecfe75-2ace-4527-a83a-fb78b0e3e276" alt="react" width="40" height="40"/> </a></td>
       <td align="center"><a href="https://wiki.libsdl.org/SDL3/FrontPage" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40"/> </a></td>
     </tr>
