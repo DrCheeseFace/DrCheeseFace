@@ -15,23 +15,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></td>
-      <td align="center"><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> </a></td>
-      <td align="center"><a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="go" width="50" height="50"/> </a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
-      <td align="center"><a> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></td>
-      <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" alt="postgreSQL" width="40" height="40"/> </a></td>
-      <td align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/baecfe75-2ace-4527-a83a-fb78b0e3e276" alt="react" width="40" height="40"/> </a></td>
-      <td align="center"><a href="https://wiki.libsdl.org/SDL3/FrontPage" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40"/> </a></td>
-    </tr>
-  </table>
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+      <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/> </a>
+      <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="go" width="50" height="50"/> </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+      <a> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" alt="postgreSQL" width="40" height="40"/> </a>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/baecfe75-2ace-4527-a83a-fb78b0e3e276" alt="react" width="40" height="40"/> </a>
+      <a href="https://wiki.libsdl.org/SDL3/FrontPage" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/sdl/sdl-original.svg" alt="sdl" width="40" height="40"/> </a>
 </div>
 
 <div align="center">
